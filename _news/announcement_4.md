@@ -5,6 +5,9 @@ date: 2023-06-28 16:00:00-0400
 inline: false
 featured: true
 related_publications: true
+images:
+  compare: true
+  slider: true
 ---
 
 ## I successfully defended my doctoral dissertation today!
@@ -42,3 +45,5 @@ related_publications: true
 <div class="caption">
     Diagram of primary contributions; and trade-off between accuracy and scalability in the proposed methods
 </div>
+
+<hr>
