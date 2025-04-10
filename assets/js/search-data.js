@@ -94,17 +94,6 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-visit-to-university-of-illinois-urbana-champaign",
-        
-          title: "Visit to University of Illinois Urbana-Champaign",
-        
-        description: "Visiting",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/al-folio/blog/2019/UIUC/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
